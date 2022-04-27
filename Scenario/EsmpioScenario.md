@@ -1,6 +1,5 @@
 ---
-name: Story
-about: Suggest a story for Polifonia
+name: Scenario1
 title: ''
 keyword: ''
 Type: 'Story'
