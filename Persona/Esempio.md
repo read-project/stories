@@ -16,13 +16,13 @@ Nome
 Età
 
 ## Occupazione
-Architetto / Restauratore (qui si possono inserire i profili selezionati per l'indagine degli stakeholder)
+Architetto / Restauratore (qui si possono inserire i profili selezionati per l'indagine degli stakeholder. Una stessa persona può avere più occupazioni)
 
-## Knowledge/Skills
-Amy has a bachelor's degree in Musicology, a master's in History, and her Ph.D. combined these two fields. For obvious reasons, Amy is already a skilled researcher.
+## Competenze e formazione
+Indicare titoli di studio e/o esperienze lavorarive.
 
 ## Interessi
-Amy's interests are primarily in church music, but she is also fascinated with relations between the music and society.
+Indicare gli interessi specifici nell'ambito di studio/lavoro.
 
 ## Scenari collegati
 [Esempio Scenario](https://github.com/read-project/stories/blob/main/Scenario/EsmpioScenario.md)
