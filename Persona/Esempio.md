@@ -1,28 +1,28 @@
 ---
-component-id: Amy
-name: "Amy"
-long-title: "Amy"
+component-id: Nome
+name: "Nome"
+long-title: "Nome"
 type: Persona
-related-components:
-- Amy#1_OrganTrends
-- Amy#2_OrganBuilders
 ---
 
-# Persona description
+# Descrizione della Persona
 
-This is a description of the persona Amy.
+Descrizione di Nome
 
-## Name
-Amy
+## Nome
+Nome
 
-## Age
-51
+## Età
+Età
 
-## Occupation
-Organologist / Musicologist / Music historian, researcher and professior at the music department of a university
+## Occupazione
+Architetto / Restauratore (qui si possono inserire i profili selezionati per l'indagine degli stakeholder)
 
 ## Knowledge/Skills
 Amy has a bachelor's degree in Musicology, a master's in History, and her Ph.D. combined these two fields. For obvious reasons, Amy is already a skilled researcher.
 
-## Interests
+## Interessi
 Amy's interests are primarily in church music, but she is also fascinated with relations between the music and society.
+
+## Scenari collegati
+[Esempio Scenario](https://github.com/read-project/stories/blob/main/Scenario/EsmpioScenario.md)
