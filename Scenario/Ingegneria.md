@@ -7,7 +7,10 @@ Type: 'Story'
 ---
 
 ## Scenario
-Sono stato incaricato di fare il progetto di restauro di Palazzo Nardini a Roma. Mi sarebbe utile conoscere altri esempi di palazzi rinascimentali del Quattro-Cinquecento a Roma, al fine di eseguire confronti dei caratteri architettonici e costruttivi, utili alla riproposizione filologica di alcuni elementi dell'edificio oggi modificati da interventi impropri pregressi.
+Sono stato recentemente incaricato dell'ampliamento della Stazione di Pompei Scavi, realizzata a metà dell'Ottocento. L'antica stazione, oggi in evidente stato di degrado fisico e antropico, è stata fortemente manomessa nel corso dell'ultimo secolo; esigenze funzionali e di adeguamento normativo impongono la demolizione del manufatto e la sua successiva ricostruzione filologica. Sono quindi interessato a conoscere altri esempi coevi di edilizia ferroviaria al fine di conoscere le scelte construttive e materiche delle strutture portanti (verticali e orizzontali) e le loro finiture.
+
+un progetto di ampliamento delle pensiline della Stazione di Roma Termini, realizzate da Angiolo Mazzoni in cemento armato e rivestite in tesserine di mosaico rosa. Sono interessato
+
 
 ## Obiettivi
 - conoscere i palazzi rinascimentali del Quattro-Cinquecento di Roma
