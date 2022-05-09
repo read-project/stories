@@ -19,7 +19,7 @@ Maria
 Storica dell'architettura
 
 ## Competenze e formazione
-Maria è un architetto. Dopo la Laurea Magistrale in Architettura, ha conseguito il Dottorato di ricerca in Storia dell'Architettura. Nella sua esperienza lavorativa, ha lavorato a numerosi progetti di ricerca attraverso borse di studio, assegni di ricerca post-doc e fellowships, in contesti italiani e internazionali. Ha tenuto corsi di Storia dell'architettura nei Dipartimenti di Architettura di diversi atenei. Ha all'attivo numerose pubblicazioni sul tema della storia dell'architettura del Rinascimento.
+Maria è un architetto. Dopo la Laurea Magistrale in Architettura, ha conseguito il Dottorato di ricerca in Storia dell'Architettura. Nella sua esperienza lavorativa, ha lavorato a numerosi progetti di ricerca grazie a borse di studio, assegni di ricerca post-doc e fellowships, in contesti italiani e internazionali. Ha tenuto corsi di Storia dell'architettura nei Dipartimenti di Architettura di diversi Atenei. Ha all'attivo numerose pubblicazioni sul tema inerenti la storia dell'architettura del Rinascimento.
 
 ## Interessi
 Si occupa principalmente dell'architettura civile del Rinascimento, in particolare, delle regioni dell'Italia centrale.
