@@ -25,4 +25,4 @@ Maria è un architetto. Dopo la Laurea Magistrale in Architettura, ha conseguito
 Si occupa principalmente dell'architettura religiosa del Rinascimento, in particolare, delle regioni dell'Italia centrale.
 
 ## Scenari collegati
-[Esempio Scenario](https://github.com/read-project/stories/blob/main/Scenario/EsmpioScenario.md)
+[Ricerca storica](https://github.com/read-project/stories/blob/main/Scenario/Ricerca%20storica.md)
