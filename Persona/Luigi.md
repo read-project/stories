@@ -19,7 +19,10 @@ Luigi
 Ingegnere strutturista
 
 ## Competenze e formazione
-Luigi è un ingegnere che lavora in una grande società di ingegneria che opera a livello nazionale e internazionale. Negli ultimi anni si occupa prevalentemente di progetti di ampliamento e aggiornamento funzionale di Stazioni ferroviarie esistenti.
+Luigi è un ingegnere civile che lavora in una grande società di ingegneria che opera a livello nazionale e internazionale. Negli ultimi anni si occupa prevalentemente di progetti di conservazione, ampliamento e aggiornamento funzionale di Stazioni ferroviarie esistenti.
+
+## Interessi
+Consolidamento strutturale di immobili premoderni e moderni di valore storico-artistico.
 
 ## Scenari collegati
 [Restauro](https://github.com/read-project/stories/blob/main/Scenario/Restauro.md)
