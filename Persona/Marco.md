@@ -25,4 +25,4 @@ Marco è un architetto. Dopo la Laurea magistrale in Architettura, ha conseguito
 Si occupa di sistemi strutturali premoderni, del comportamento di risposta all'azione sismica e del loro adeguamento e consolidamento.
 
 ## Scenari collegati
-[Esempio Scenario](https://github.com/read-project/stories/blob/main/Scenario/EsmpioScenario.md)
+[Strutture storiche](https://github.com/read-project/stories/blob/main/Scenario/Strutture%20storiche.md)
