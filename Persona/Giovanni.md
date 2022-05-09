@@ -25,4 +25,4 @@ Giovanni è laureato in Archeologia; dopo il Dottorato di ricerca, ha conseguito
 Si occupa di fondi archivistici di architettura e fondi di architetti e del rapporto tra riproduzione digitale e patrimonio culturale.
 
 ## Scenari collegati
-[Archivio](https://github.com/read-project/stories/blob/main/Scenario/Restauro.md)
+[Archivio](https://github.com/read-project/stories/blob/main/Scenario/Archivio.md)
