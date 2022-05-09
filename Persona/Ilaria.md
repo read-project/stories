@@ -25,4 +25,4 @@ Ilaria è un architetto che si occupa prevalentemente di resaturo architettonico
 Edilizia residentiziale e pubblica in area romana, con particolare attenzione ai beni architettonici premoderni.
 
 ## Scenari collegati
-[Ricerca storica](https://github.com/read-project/stories/blob/main/Scenario/Ricerca%20storica.md)
+[Restauro](https://github.com/read-project/stories/blob/main/Scenario/Ricerca%20storica.md)
