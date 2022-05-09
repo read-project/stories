@@ -14,8 +14,6 @@ Sono stato incaricato di fare il progetto di restauro di Palazzo Nardini a Roma.
 - conoscere i caratteri architettonici e costruttivi dei palazzi rinascimentali del Quattro-Cinquecento di Roma
 - effettuare confronti puntuali tra Palazzo Nardini e altri palazzi rinascimentali del Quattro-Cinquecento di Roma
 
-Keywords: confronto tipologia 
-
 ## Competency questions
 - dammi l'elenco di tutti i palazzi rinascimentali costruiti a Roma nel XV e XVI secolo
 - dammi gli elaborati grafici (piante, prospetti, sezioni) dei palazzi rinascimentali costruiti a Roma nel XV e nel XVI secolo
