@@ -10,7 +10,7 @@ Type: 'Story'
 Sto studiando il Tempio di Santa Maria della Consolazione di Todi (XVI secolo) per la preparazione di un articolo scientifico. Mi sarebbe utile conoscere altri esempi di chiesa a pianta centrale costruiti tra il XV e il XVII secolo in Italia centrale, al fine di eseguire dei confronti stilistici e tipologici utili alla mia ricerca. 
 
 ## Obiettivi
-- conoscere le chiese a pianta centrale del XV-XVII secolo presenti in Italia Centrale 
+- conoscere le chiese a pianta centrale del XV-XVII secolo presenti in Italia centrale 
 - capire quali sono stati i riferimenti tipologi per la progettazione del Tempio di Santa Maria della Consolazione di Todi 
 - capire se il progetto del Tempio di Santa Maria della Consolazione di Todi ha successivamente influenzato la costruzione di altri edifici religiosi dell'Italia centrale
 
