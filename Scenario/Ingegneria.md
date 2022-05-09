@@ -7,29 +7,25 @@ Type: 'Story'
 ---
 
 ## Scenario
-Sono stato recentemente incaricato dell'ampliamento della Stazione di Pompei Scavi, realizzata a metà dell'Ottocento. L'antica stazione, oggi in evidente stato di degrado fisico e antropico, è stata fortemente manomessa nel corso dell'ultimo secolo; esigenze funzionali e di adeguamento normativo impongono la demolizione del manufatto e la sua successiva ricostruzione filologica. Sono quindi interessato a conoscere altri esempi coevi di edilizia ferroviaria al fine di conoscere le scelte construttive e materiche delle strutture portanti (verticali e orizzontali) e le loro finiture.
-
-un progetto di ampliamento delle pensiline della Stazione di Roma Termini, realizzate da Angiolo Mazzoni in cemento armato e rivestite in tesserine di mosaico rosa. Sono interessato
-
+Sono stato recentemente incaricato dell'ampliamento della Stazione di Pompei Scavi, realizzata a metà dell'Ottocento. L'antica stazione, oggi in evidente stato di degrado fisico e antropico, è stata fortemente manomessa nel corso dell'ultimo secolo; esigenze funzionali e di adeguamento normativo impongono la demolizione del manufatto e la sua successiva ricostruzione filologica. Sono quindi interessato a indagare altri esempi storici di edilizia ferroviaria al fine di conoscere le scelte costruttive e materiche delle strutture portanti (verticali e orizzontali) e le loro finiture.
 
 ## Obiettivi
-- conoscere i palazzi rinascimentali del Quattro-Cinquecento di Roma
-- conoscere i caratteri architettonici e costruttivi dei palazzi rinascimentali del Quattro-Cinquecento di Roma
-- effettuare confronti puntuali tra Palazzo Nardini e altri palazzi rinascimentali del Quattro-Cinquecento di Roma
-
-Keywords: confronto tipologia 
+- conoscere gli edifici ferroviari italiani costruiti dalla seconda metà dell'Ottocento alla prima metà del Novecento
+- conoscere i caratteri strutturali e costruttivi degli edifici ferroviari italiani costruiti dalla seconda metà dell'Ottocento alla prima metà del Novecento
+- effettuare confronti puntuali tra la Stazione di Pompei Scavi e altri edifici ferroviari italiani costruiti dalla seconda metà dell'Ottocento alla prima metà del Novecento
 
 ## Competency questions
-- dammi l'elenco di tutti i palazzi rinascimentali costruiti a Roma nel XV e XVI secolo
-- dammi gli elaborati grafici (piante, prospetti, sezioni) dei palazzi rinascimentali costruiti a Roma nel XV e nel XVI secolo
-- dammi i disegni e le fotografie che descrivono i loggiati dei cortili dei palazzi rinascimentali costruiti a Roma nel XV e XVI secolo
-- dammi i disegni e le fotografie che descrivono la pavimentazione dei cortili dei palazzi rinascimentali costruiti a Roma nel XV e XVI secolo
-- dammi i disegni e le fotografie che descrivono i soffitti cassettonati dei palazzi rinascimentali costruiti a Roma nel XV e XVI secolo
+- dammi l'elenco di tutti gli edifici ferroviari italiani costruiti dalla seconda metà dell'Ottocento alla prima metà del Novecento
+- dammi l'elenco degli edifici ferroviari italiani costruiti dalla seconda metà dell'Ottocento alla prima metà del Novecento con struttura a muri portanti
+- dammi gli elaborati grafici (piante, prospetti, sezioni) degli edifici ferroviari italiani costruiti dalla seconda metà dell'Ottocento alla prima metà del Novecento
+- dammi i disegni e le fotografie che descrivono le strutture portanti (verticali e orizzontali) degli edifici ferroviari italiani con struttura a muri portanti costruiti dalla seconda metà dell'Ottocento alla prima metà del Novecento
+- dammi l'elenco di tutti i restauri effettuati negli ultimi cinquanta anni sugli edifici ferroviari italiani costruiti dalla seconda metà dell'Ottocento alla prima metà del Novecento
+- dammi i disegni e le fotografie che descrivono gli elementi strutturali sussidiari utilizzati durante i restauri effettuati negli ultimi cinquanta anni sugli edifici ferroviari italiani costruiti dalla seconda metà dell'Ottocento alla prima metà del Novecento
 
 
 ## Risorse (optional)
-- Archivio di Stato di Roma [https://www.archiviodistatoroma.beniculturali.it]
-- F.P. Fiore (a cura di), Storia dell'architettura italiana. Il Quattrocento, Electa, Milano 1998
+- Collezioni digitali dell'Archivio della Fondazione FS Italiane [https://www.archiviofondazionefs.it/#bodyBread]
+- Biblioteca dell'Archivio della Fondazione FS Italiane [https://www.archiviofondazionefs.it/it/Monografie/li/2a94adae8a764852ddd1df9f170ffdf3aaa760df/libraryCategory?q=%3Aname-asc&text=&viewMode=List]
 
 ## Persona
-[Luigi]() 
+[Luigi](https://github.com/read-project/stories/blob/main/Persona/Luigi.md) 
