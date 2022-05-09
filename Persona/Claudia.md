@@ -25,4 +25,4 @@ Dopo la laurea in Architettura, Claudia ha frequentato un Master in Catalogazion
 Si occupa della catalogazione di beni architettonici attraverso la piattaforma SigecWEB dell'ICCD. 
 
 ## Scenari collegati
-[Catalogazione](https://github.com/read-project/stories/blob/main/Scenario/Archivio.md)
+[Catalogazione](https://github.com/read-project/stories/blob/main/Scenario/Catalogazione.md)
