@@ -29,4 +29,4 @@ Keywords: confronto tipologia
 - F.P. Fiore (a cura di), Storia dell'architettura italiana. Il Quattrocento, Electa, Milano 1998
 
 ## Persona
-[Esempio Persona](https://github.com/read-project/stories/blob/main/Persona/Esempio.md) 
+[Ilaria](https://github.com/read-project/stories/blob/main/Persona/Ilaria.md) 
