@@ -7,12 +7,12 @@ Type: 'Story'
 ---
 
 ## Scenario
-Sono stato incaricato di fare il progetto di restauro di Palazzo Nardini a Roma. Mi sarebbe utile conoscere altri esempi di palazzi rinascimentali del Quattro-Cinquecento a Roma, al fine di eseguire dei confronti dei caratteri architettonici e costruttivi utili alla riproposizione filologica di alcuni elementi dell'edificio oggi modificati da interventi impropri pregressi.
+Sono stato incaricato di fare il progetto di restauro di Palazzo Nardini a Roma. Mi sarebbe utile conoscere altri esempi di palazzi rinascimentali del Quattro-Cinquecento a Roma, al fine di eseguire confronti dei caratteri architettonici e costruttivi, utili alla riproposizione filologica di alcuni elementi dell'edificio oggi modificati da interventi impropri pregressi.
 
 ## Obiettivi
 - conoscere i palazzi rinascimentali del Quattro-Cinquecento di Roma
 - conoscere i caratteri architettonici e costruttivi dei palazzi rinascimentali del Quattro-Cinquecento di Roma
-- effettuare dei confronti puntuali tra Palazzo Nardini e gli altri palazzi rinascimentali del Quattro-Cinquecento di Roma
+- effettuare confronti puntuali tra Palazzo Nardini e altri palazzi rinascimentali del Quattro-Cinquecento di Roma
 
 Keywords: confronto tipologia 
 
