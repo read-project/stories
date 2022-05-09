@@ -11,6 +11,7 @@ Sono stato invitato a un convegno internazionale sui sistemi costruttivi voltati
 
 ## Obiettivi
 - individuare gli edifici che presentano una copertura a volta a botte o a crociera, costruiti in epoca imperiale a Roma e nelle province
+- effettuare confronti tipologici e strutturali tra gli edifici individuati
 
 ## Competency questions
 - dammi l'elenco di tutti gli edifici che presentano una copertura a volta a botte, costruiti in epoca imperiale a Roma e nelle province
