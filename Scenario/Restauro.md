@@ -26,6 +26,7 @@ Keywords: confronto tipologia
 
 ## Risorse (optional)
 - Archivio di Stato di Roma [https://www.archiviodistatoroma.beniculturali.it]
+- F.P. Fiore (a cura di), Storia dell'architettura italiana. Il Quattrocento, Electa, Milano 1998
 
 ## Persona
 [Esempio Persona](https://github.com/read-project/stories/blob/main/Persona/Esempio.md) 
