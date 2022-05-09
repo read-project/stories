@@ -13,8 +13,8 @@ Sono stato incaricato dalla Diocesi di Ascoli Piceno di catalogare un gruppo di 
 - acquisire in maniera automatica alcune informazioni relative a edifici ecclesiastici marchigiani, attraverso i relativi elaborati grafici già digitalizzati
 
 ## Competency questions
-- riconosci nell'elaborato grafico digitalizzato l'oggetto rappresentato, ovvero la "Definizione tipologica-OGTD" (es.chiesa)
-- riconosci nell'elaborato grafico digitalizzato i caratteri spaziali dell'edificio rappresentato, in particolare la "Suddivisione interna-SIIO" (es. livelli sfalsati), il "Numero di piani-SIIN" (es. +3) , il "Tipo di piani-SIIP" (es. p.1, p.2 ecc.), la "Suddivisione verticale-SIIV" (es.in tre navate)
+- riconosci nell'elaborato grafico digitalizzato l'oggetto rappresentato, ovvero la "Definizione tipologica-OGTD" (es. chiesa)
+- riconosci nell'elaborato grafico digitalizzato i caratteri spaziali dell'edificio rappresentato, in particolare la "Suddivisione interna-SIIO" (es. livelli sfalsati), il "Numero di piani-SIIN" (es. +3) , il "Tipo di piani-SIIP" (es. p.1, p.2 ecc.), la "Suddivisione verticale-SIIV" (es. in tre navate)
 - riconosci nell'elaborato grafico digitalizzato i caratteri planimetrici dell'edificio rappresentato, in particolare lo "Schema-PNTS" (es. basilicale), la "Forma-PNTF" (es. circolare), i "Dati iconografici significativi-PNTE" (es. abside)
 - riconosci nell'elaborato grafico digitalizzato le caratteristiche delle fondazioni dell'edificio rappresentato, in particolare il "Tipo-FNTS" (es. a piloni)
 - riconosci nell'elaborato grafico digitalizzato le caratteristiche delle strutture verticali dell'edificio rappresentato, in particolare il "Tipo di struttura-SVCT" (es. colonne)
