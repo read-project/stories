@@ -25,7 +25,7 @@ Keywords: confronto tipologia
 
 
 ## Risorse (optional)
-- Indica le risorse (con riferimenti/collegamenti) in cui la persona può trovare ciò che sta cercando.
+- Archivio di Stato di Roma [https://www.archiviodistatoroma.beniculturali.it]
 
 ## Persona
 [Esempio Persona](https://github.com/read-project/stories/blob/main/Persona/Esempio.md) 
