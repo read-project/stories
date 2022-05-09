@@ -13,16 +13,16 @@ Descrizione di Giovanni
 Giovanni
 
 ## Età
-59
+41
 
 ## Occupazione
-Architetto restauratore
+Archivista
 
 ## Competenze e formazione
-Ilaria è un architetto che si occupa prevalentemente di restauro architettonico. Dopo la Laurea in Architettura (V.O.), si è diplomata nella Scuola di specializzazione per lo studio ed il restauro dei monumenti presso Sapienza Università di Roma; ha in seguito frequentato il Master internazionale di II livello in Restauro architettonico e cultura del patrimonio presso l'Università degli Studi Roma Tre. Svolge attività professionale con particolare attenzione a progetti di restauro architettonico di immobili vincolati.
+Giovanni è laureato in Archeologia; dopo il Dottorato di ricerca, ha conseguito il diploma di paleografo e archivista presso la Scuola biennale di Paleografia, Archivistica e Diplomatica. Attualmente lavora come archivista presso un importante archivio pubblico ed è responsabile dei fondi di architettura.
 
 ## Interessi
-Restauro di edilizia residenziale e pubblica in area romana, con particolare attenzione ai beni architettonici premoderni.
+Si occupa di fondi archivistici di architettura e fondi di architetti e del rapporto tra riproduzione digitale e patrimonio culturale.
 
 ## Scenari collegati
-[Restauro](https://github.com/read-project/stories/blob/main/Scenario/Restauro.md)
+[Archivio](https://github.com/read-project/stories/blob/main/Scenario/Restauro.md)
