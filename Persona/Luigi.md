@@ -25,4 +25,4 @@ Luigi è un ingegnere civile che lavora in una grande società di ingegneria che
 Consolidamento strutturale di immobili premoderni e moderni di valore storico-artistico.
 
 ## Scenari collegati
-[Restauro](https://github.com/read-project/stories/blob/main/Scenario/Restauro.md)
+[Consolidamento strutturale](https://github.com/read-project/stories/blob/main/Scenario/Consolidamento%20strutturale.md)
