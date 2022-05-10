@@ -1,4 +1,3 @@
-
 ---
 component-id: Beatrice
 name: "Beatrice"
