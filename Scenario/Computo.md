@@ -26,4 +26,4 @@ Ho ricevuto l’incarico di restaurare Palazzo Spada a Roma. Per eseguire il com
 ## Persona
 [Ilaria](https://github.com/read-project/stories/blob/main/Persona/Ilaria.md) 
 
-[Sofia](https://github.com/read-project/stories/blob/main/Persona/Ilaria.md) 
+[Sofia](https://github.com/read-project/stories/blob/main/Persona/Sofia.md) 
