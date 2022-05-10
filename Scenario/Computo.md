@@ -15,9 +15,9 @@ Ho ricevuto l’incarico di restaurare Palazzo Spada a Roma. Per eseguire il com
 
 
 ## Competency questions
-- dammi il numero e il tipo di tutte le finestre di Palazzo Spada
-- dammi il numero e il tipo di tutte le porte di Palazzo Spada
-- dammi il numero e il tipo di tutti i portali di Palazzo Spada
+- a partire dai disegni architettonici, dammi il numero e il tipo di tutte le finestre di Palazzo Spada
+- a partire dai disegni architettonici, dammi il numero e il tipo di tutte le porte di Palazzo Spada
+- a partire dai disegni architettonici, dammi il numero e il tipo di tutti i portali di Palazzo Spada
 
 
 ## Risorse (optional)
