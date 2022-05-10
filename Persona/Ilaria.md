@@ -26,3 +26,5 @@ Restauro di edilizia residenziale e pubblica in area romana, con particolare att
 
 ## Scenari collegati
 [Restauro](https://github.com/read-project/stories/blob/main/Scenario/Restauro.md)
+
+[Computo](https://github.com/read-project/stories/blob/main/Scenario/Computo.md)
