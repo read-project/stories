@@ -16,8 +16,8 @@ Sto ordinando e inventariando il fondo già digitalizzato di un architetto. Mi s
 - dammi le dimensioni dell'elaborato grafico
 - riconosci il tipo di elaborato grafico (disegno, fotografia)
 - riconosci il tipo di disegno (pianta, prospetto, sezione, veduta prospettica, veduta assonometrica)
-- riconosci la tecnica di realizzazione del disegno (matita, china, copia eliografica, cianografia, ecc.)
-- riconosci la tipologia di edificio rappresentato nell'elaborato grafico (chiesa, palazzo, arco di trionfo, anfiteatro, ecc.)
+- riconosci la tecnica di realizzazione del disegno (matita, china, copia eliografica, cianografia ecc.)
+- riconosci la tipologia di edificio rappresentato nell'elaborato grafico (chiesa, palazzo, arco di trionfo, anfiteatro ecc.)
 
 
 
