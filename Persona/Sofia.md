@@ -19,7 +19,7 @@ Sofia
 Restauratrice
 
 ## Competenze e formazione
-Dopo la Laurea in Lettere moderne, Sofia ha conseguito il diploma da restauratore presso l'Istituto Centrale del Restauro. Nella sua carriera, ha lavorato a numerosi importanti cantieri di restauro in Italia e all'estero, occupandosi soprattutto di pitture murali, di opere in pietra e in legno e di mosaici.
+Dopo la Laurea in Lettere moderne, Sofia ha conseguito il diploma da restauratore presso l'Istituto Centrale del Restauro. Nella sua carriera ha lavorato a numerosi cantieri di restauro in Italia e all'estero, occupandosi soprattutto di pitture murali, di opere in pietra e in legno e di mosaici.
 
 ## Interessi
 Negli ultimi anni si è interessata in modo particolare al restauro materico degli apparati decorativi dei palazzi rinascimentali.
