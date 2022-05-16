@@ -22,7 +22,7 @@ Sono stato invitato a un convegno internazionale sui sistemi costruttivi voltati
 - dammi le dimensioni e il rapporto tra luce e spessore strutturale delle coperture di tutti gli edifici che presentano una copertura a volta a botte e a crociera, costruiti in epoca imperiale a Roma e nelle province
 
 ## Risorse (optional)
-- J.P. Adam, L'arte di costruire presso i romani: materiali e tecniche, Longanesi, Milano 1984
+- J.P. Adam, L'arte di costruire presso i romani: materiali e tecniche, Longanesi, Milano 1984 - risorsa non digitalizzata
 
 ## Persona
 [Marco](https://github.com/read-project/stories/blob/main/Persona/Marco.md) 
