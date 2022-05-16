@@ -24,8 +24,8 @@ Sto studiando il Tempio di Santa Maria della Consolazione di Todi (XVI secolo) p
 
 
 ## Risorse (optional)
-- Archivio storico diocesano di Todi [https://siusa.archivi.beniculturali.it/cgi-bin/siusa/pagina.pl?TipoPag=cons&Chiave=11376]
-- L. Battistoni, Il tempio di Santa Maria della Consolazione in Todi: 1508-1607 e i beni di interesse storico-artistico di proprietà dell'Ente Tuderte di Assistenza e Beneficenza 'La Consolazione', Todi 2007
+- Archivio storico diocesano di Todi [https://siusa.archivi.beniculturali.it/cgi-bin/siusa/pagina.pl?TipoPag=cons&Chiave=11376] - risorsa non digitalizzata
+- L. Battistoni, Il tempio di Santa Maria della Consolazione in Todi: 1508-1607 e i beni di interesse storico-artistico di proprietà dell'Ente Tuderte di Assistenza e Beneficenza 'La Consolazione', Todi 2007 - risorsa non digitalizzata
 
 ## Persona
 [Maria](https://github.com/read-project/stories/blob/main/Persona/Maria.md) 
