@@ -28,7 +28,7 @@ per la Chiesa dell'Annunziata di Cupra Marittima (AP):
 
 
 ## Risorse (optional)
-
+- Archivio storico dalla Diocesi di San Benedetto del Tronto-Ripatransone-Montalto (http://www.diocesisbt.it/diocesi/organismi/beni-culturali/) - risorsa non digitalizzata
 
 ## Persona
 [Claudia](https://github.com/read-project/stories/blob/main/Persona/Claudia.md) 
