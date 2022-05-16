@@ -16,7 +16,7 @@ Claudia
 44
 
 ## Occupazione
-Catalogatore di beni architettonici
+Catalogatrice di beni architettonici
 
 ## Competenze e formazione
 Dopo la laurea in Architettura, Claudia ha frequentato un Master in Catalogazione dei beni culturali organizzato dall'Università di Reggio Emilia in collaborazione con ICCD. Lavora come catalogatore freelance di beni architettonici, collaborando soprattutto con le Soprintendenze e le Diocesi del centro Italia.
