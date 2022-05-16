@@ -25,4 +25,4 @@ Dopo la laurea magistrale in Archeologia, Beatrice ha frequentato la Scuola di S
 Si occupa di Archeologia urbana, soprattutto nel contesto romano.
 
 ## Scenari collegati
-[Archeologia](https://github.com/read-project/stories/blob/main/Scenario/Catalogazione.md)
+[Archeologia](https://github.com/read-project/stories/blob/main/Scenario/Archeologia.md)
