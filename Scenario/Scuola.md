@@ -20,7 +20,7 @@ Sto organizzando un viaggio d'istruzione per gli studenti dell'ultimo anno di li
 
 
 ## Risorse (optional)
-- G.U.Arata, Atlante di storia dell'architettura arabo-normanna e del rinascimento in Sicilia, Edizioni librarie siciliane, Palermo s.d. [19..!]
+- G.U.Arata, Atlante di storia dell'architettura arabo-normanna e del rinascimento in Sicilia, Edizioni librarie siciliane, Palermo s.d. [19..!] - risorsa non digitalizzata
 
 ## Persona
 [Cristiana](https://github.com/read-project/stories/blob/main/Persona/Cristiana.md) 
