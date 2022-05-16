@@ -21,6 +21,9 @@ Ho ricevuto l’incarico di restaurare Palazzo Spada a Roma. Per eseguire il com
 
 
 ## Risorse (optional)
+- Europeana (https://www.europeana.eu/it/search?page=1&query=palazzo%20spada%20roma&view=grid)
+- Wikimedia Commons (https://commons.wikimedia.org/w/index.php?search=palazzo+spada&title=Special:MediaSearch&go=Go&type=image=)
+- Blindindex der Kunst & Architektur (https://www.bildindex.de/ete?action=queryupdate&desc=palazzo%20spada%20&index=obj-all)
 
 
 ## Persona
