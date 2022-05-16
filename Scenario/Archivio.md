@@ -22,7 +22,7 @@ Sto ordinando e inventariando il fondo già digitalizzato di un architetto. Mi s
 
 
 ## Risorse (optional)
-Fondi degli architetti e degli ingegneri conservati presso l'Archivio Centrale dello Stato [https://search.acs.beniculturali.it/OpacACS/guida/IT-ACS-AS0001-0004665]
+Fondi degli architetti e degli ingegneri conservati presso l'Archivio Centrale dello Stato [https://search.acs.beniculturali.it/OpacACS/guida/IT-ACS-AS0001-0004665] - risorsa non digitalizzata
 
 ## Persona
 [Giovanni](https://github.com/read-project/stories/blob/main/Persona/Giovanni.md) 
