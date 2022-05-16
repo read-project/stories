@@ -23,8 +23,9 @@ Sono stato incaricato di fare il progetto di restauro di Palazzo Nardini a Roma.
 
 
 ## Risorse (optional)
-- Archivio di Stato di Roma [https://www.archiviodistatoroma.beniculturali.it]
-- F.P. Fiore (a cura di), Storia dell'architettura italiana. Il Quattrocento, Electa, Milano 1998
+- Archivio di Stato di Roma [https://www.archiviodistatoroma.beniculturali.it] - risorsa non digitalizzata
+- F.P. Fiore (a cura di), Storia dell'architettura italiana. Il Quattrocento, Electa, Milano 1998 - risorsa non digitalizzata
+- Blindindex der Kunst & Architektur (https://www.bildindex.de/ete?action=queryupdate&desc=palazzo%20nardini%20&index=obj-all)
 
 ## Persona
 [Ilaria](https://github.com/read-project/stories/blob/main/Persona/Ilaria.md) 
