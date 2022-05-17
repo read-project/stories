@@ -14,7 +14,7 @@ Sto svolgendo uno scavo in una nuova porzione del perimetro archeologico di Pomp
 
 ## Competency questions
 - dammi l'elenco delle domus romane in cui la cui copertura dell'atrio è sostenuta da colonne con capitelli ionici
-- dammi gli eleaborati grafici (piante, prospetti, sezioni, fotografie) in cui compaiano colonne con capitelli ionici impiegate negli atri di domus romane
+- dammi gli elaborati grafici (piante, prospetti, sezioni, fotografie) in cui compaiano colonne con capitelli ionici impiegate negli atri di domus romane
 
 ## Risorse (optional)
 - Archivi digitalizzati del Parco archeologico di Pompei, con accesso da rete interna (http://pompeiisites.org/archivi/)
