@@ -7,7 +7,7 @@ Type: 'Story'
 ---
 
 ## Scenario
-Sto svolgendo uno scavo in una nuova porzione del perimetro archeologico di Pompei. All'interno di una domus, ho rinvenuto resti di capitelli ionici nell'ambiente che si suppone essere stato l'atrio della residenza. Per procedere a un corretto collocamento dei pezzi, vorrei conoscere altri esempi di domus in cui sono stati impiegati capitelli ionici nelle colonne dell'atrio.
+Sto svolgendo uno scavo in una nuova porzione del perimetro archeologico di Pompei. All'interno di una domus, ho rinvenuto resti di capitelli ionici nell'ambiente che si suppone essere stato l'atrio della residenza. Per verificare il corretto collocamento dei pezzi, vorrei conoscere altri esempi di domus in cui sono stati impiegati capitelli ionici nelle colonne dell'atrio.
 
 ## Obiettivi
 - conoscere le domus in cui sono stati impiegati capitelli ionici nelle colonne dell'atrio
