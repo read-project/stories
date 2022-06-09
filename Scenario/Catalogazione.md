@@ -7,7 +7,7 @@ Type: 'Story'
 ---
 
 ## Scenario
-Sono stato incaricato dalla Diocesi di San Benedetto del Tronto-Ripatransone-Montalto di catalogare un gruppo di edifici ecclesiastici di cui sono disponibili alcuni elaborati grafici (disegni e fotografie) già digitalizzati. Mi sarebbe utile acquisire in maniera automatica alcune informazioni relative agli edifici rappresentati, al fine di velocizzare la compilazione delle relative schede A. 
+Sono stata incaricata dalla Diocesi di San Benedetto del Tronto-Ripatransone-Montalto di catalogare un gruppo di edifici ecclesiastici di cui sono disponibili alcuni elaborati grafici (disegni e fotografie) già digitalizzati. Mi sarebbe utile acquisire in maniera automatica alcune informazioni relative agli edifici rappresentati, al fine di velocizzare la compilazione delle relative schede A. 
 
 ## Obiettivi
 - acquisire in maniera automatica alcune informazioni relative a edifici ecclesiastici marchigiani, attraverso i relativi elaborati grafici già digitalizzati
