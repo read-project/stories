@@ -10,9 +10,9 @@ Type: 'Story'
 Sono stato incaricato di fare il progetto di restauro di Palazzo Nardini a Roma. Mi sarebbe utile conoscere altri esempi di palazzi rinascimentali del Quattro-Cinquecento a Roma, al fine di eseguire confronti (con particolare attenzione ai caratteri architettonici e costruttivi), utili alla riproposizione filologica di alcuni elementi dell'edificio modificati da interventi impropri realizzati nella seconda metà del Novecento.
 
 ## Obiettivi
-- conoscere i palazzi rinascimentali del Quattro-Cinquecento di Roma
-- conoscere i caratteri architettonici e costruttivi dei palazzi rinascimentali del Quattro-Cinquecento di Roma
-- effettuare confronti puntuali tra Palazzo Nardini e altri palazzi rinascimentali del Quattro-Cinquecento di Roma
+- conoscere i palazzi rinascimentali costruiti a Roma nel Quattro-Cinquecento
+- conoscere i caratteri architettonici e costruttivi dei palazzi rinascimentali costruiti a Roma nel Quattro-Cinquecento
+- effettuare confronti puntuali tra Palazzo Nardini e altri palazzi rinascimentali costruiti a Roma nel Quattro-Cinquecento
 
 ## Competency questions
 - dammi l'elenco di tutti i palazzi rinascimentali costruiti a Roma nel XV e XVI secolo
